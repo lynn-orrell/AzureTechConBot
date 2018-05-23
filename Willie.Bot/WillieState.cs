@@ -3,7 +3,7 @@
     /// <summary>
     /// Class for storing conversation state. 
     /// </summary>
-    public class EchoState
+    public class WillieState
     {
         public int TurnCount { get; set; } = 0;
     }
